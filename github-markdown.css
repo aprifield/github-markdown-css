@@ -955,3 +955,16 @@
 .markdown-body .pl-12 {
   padding-left: 128px!important;
 }
+
+.markdown-body.markdown-body--dark {
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+.markdown-body.markdown-body--dark pre {
+  background-color: #161616;
+}
+
+.markdown-body.markdown-body--dark a {
+  color:#3794ff
+}
