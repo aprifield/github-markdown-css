@@ -968,3 +968,7 @@
 .markdown-body.markdown-body--dark a {
   color:#3794ff
 }
+
+.markdown-body.markdown-body--dark table tr {
+  background-color: #1e1e1e;
+}
