@@ -961,6 +961,10 @@
   color: #d4d4d4;
 }
 
+.markdown-body.markdown-body--dark code {
+  background-color: #161616;
+}
+
 .markdown-body.markdown-body--dark pre {
   background-color: #161616;
 }
